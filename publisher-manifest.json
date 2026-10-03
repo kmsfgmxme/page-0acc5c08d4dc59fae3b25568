@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "ac62764fcf975126be1ffc3a",
+  "owner": "kmsfgmxme",
+  "repo": "page-0acc5c08d4dc59fae3b25568",
+  "title": "GCP",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0acc5c08d4dc59fae3b25568",
+      "a": "GCP",
+      "b": "",
+      "entity": "GCP",
+      "brand": "GCP",
+      "separator": "",
+      "path": "index.html",
+      "hash": "e8584c10f7154b319d05ec6b3d651a8b5ea5c3f453c656ef0342f0dddac52833",
+      "content": {
+        "keyword1": "GCP",
+        "keyword2": "",
+        "primary_entity": "GCP",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "GCP提供机场订阅与VPN梯子网络加速服务，覆盖客户端官方下载、配置流程与多档套餐，助力流媒体解锁、游戏加速和多设备稳定连接。",
+          "AI_DESCRIPTION": "GCP提供机场订阅与VPN梯子网络加速服务，覆盖客户端官方下载、配置流程与多档套餐，助力流媒体解锁、游戏加速和多设备稳定连接。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html,body{margin:0;padding:0;overflow-x:hidden}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;background:#FDF6F0;color:#2D2A26;font-size:16px;line-height:1.65}a{color:#D94F3D}header{background:#FFF8F4;border-bottom:3px solid #E76F51;padding:12px 16px}nav{display:flex;flex-wrap:wrap;gap:10px 16px}nav a{text-decoration:none;font-weight:600;color:#C44536}.wrap{max-width:920px;margin:0 auto;padding:16px}h1{font-size:1.75rem;color:#B03A2E;margin:.4em 0}h2{font-size:1.35rem;color:#C0392B;margin:1.4em 0 .6em;padding-bottom:6px;border-bottom:2px solid #F0A090}h3{font-size:1.1rem;color:#A04030;margin:1em 0 .4em}.lead{font-size:1.05rem}.cards{display:flex;flex-wrap:wrap;gap:14px;margin:16px 0}.card{flex:1 1 260px;background:#FFF;border:1px solid #F3C4B6;border-radius:10px;padding:16px}.card.featured{border:2px solid #E76F51;background:#FFF3EE}.price{font-size:1.4rem;color:#E76F51;font-weight:700}.annual{font-size:.9rem;color:#6D5C55}.feat{margin:8px 0 0;padding-left:18px}.step{background:#FFF;border-left:4px solid #E76F51;padding:12px 14px;margin:10px 0;border-radius:0 8px 8px 0}.step h3{margin-top:0}.dl{display:flex;flex-wrap:wrap;gap:8px}.dl a{background:#E76F51;color:#fff;text-decoration:none;padding:8px 14px;border-radius:6px;font-size:.95rem}details{background:#FFF;border:1px solid #F0C8BA;border-radius:8px;padding:10px 14px;margin:8px 0}summary{font-weight:600;color:#C0392B;cursor:pointer}footer{background:#FFF4EE;border-top:2px solid #E8B4A4;padding:20px 16px;margin-top:32px;font-size:.92rem}.footer-grid{display:flex;flex-wrap:wrap;gap:20px}.footer-grid>div{flex:1 1 200px}ul{padding-left:20px}.adbox{background:#FFF;border:1px dashed #E76F51;padding:12px;border-radius:8px}</style><header><nav><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐方案</a><a href=\"#guide\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></header><main class=\"wrap\"><h1>GCP 官方网站</h1><p class=\"lead\">GCP 专注机场订阅与 VPN 梯子网络加速，为用户提供稳定节点、多端客户端官方下载和清晰的配置流程，帮助畅连全球网络、解锁流媒体并优化游戏延迟。</p><section id=\"intro\"><h2>GCP 品牌简介</h2><p>GCP 是面向个人与团队的机场订阅服务。我们以简洁套餐、可预期流量和多设备同时在线为核心，结合普通线路与 IPLC 专线，覆盖日常浏览、流媒体播放和在线对战。本页展示的流量额度、设备数量与年付价格与当前官方方案一致，便于按使用强度选择基础版、旗舰版或团队版。</p><p>GCP 官方网站只发布订阅入口与客户端指引，用户完成订购后即可获得通用订阅链接，在 Clash、Shadowrocket、v2rayN 等客户端中导入。服务强调导入后的可用性：节点按地区与用途划分，旗舰版突出原生流媒体与游戏向优化，团队版面向共享与定制路由。</p><p>节点覆盖香港、台湾、日本、韩国、新加坡、美国西岸与欧洲等常用入口，高峰时段通过带宽调度维持连接。基础版适合轻度使用，旗舰版增加设备数与 IPLC 游戏加速，团队版提供高带宽 VIP 节点与专属客户经理。请通过本站完成官网下载与配置，避免非官方二次分发的订阅。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>流媒体与内容访问</h3><p>需要稳定解锁时，旗舰版提供全节点原生流媒体能力，适合长时间观看剧集、体育直播和较高清晰度内容。基础版可满足常见平台的基础解锁，适合偶尔使用的用户。</p><h3>游戏与低延迟对战</h3><p>对战与开放世界游戏可选择带 IPLC 专线优化的旗舰版，针对热门区服降低抖动。团队版额外提供高带宽 VIP 节点，适合多人同时在线或工作室多开。</p><h3>办公、学习与差旅</h3><p>远程会议、文献访问和跨境协作需要持续在线，多设备额度让手机、电脑与平板同时保持连接。差旅时切换邻近节点，即可维持常用应用与企业邮箱访问。</p><h3>家庭与小团队共享</h3><p>团队版支持最多 20 台设备，适合家庭成员或小型团队共用高流量订阅，并可按需启用企业定制路由，以匹配内部访问策略。</p></section><section id=\"plans\"><h2>GCP 套餐方案</h2><p>下列方案为当前官方定价，流量按自然月重置。年付可降低综合成本。选定套餐后请按配置流程导入订阅。</p><div class=\"cards\"><div class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul class=\"feat\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p><a href=\"#guide\">查看配置流程</a></p></div><div class=\"card featured\"><h3>旗舰版（推荐）</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul class=\"feat\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p><a href=\"#guide\">查看配置流程</a></p></div><div class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul class=\"feat\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p><a href=\"#guide\">查看配置流程</a></p></div></div></section><section id=\"guide\"><h2>操作说明与配置流程</h2><p>GCP 将从选购到连接拆成五步，多数用户可在数分钟内完成。请使用官网用户中心生成的订阅地址，不要填写来路不明的服务器参数。</p><div class=\"step\"><h3>第一步：选择套餐并完成订阅</h3><p>根据流量与设备数量选择基础版、旗舰版或团队版。年付可锁定优惠价。订阅成功后，用户中心会生成 Clash、V2Ray、Surge 等通用订阅链接。</p></div><div class=\"step\"><h3>第二步：下载官方推荐客户端</h3><p>打开本页客户端下载区域，按系统选择 Windows、macOS、Android 或 iOS 客户端。请从 GCP 官网说明或正规应用商店获取，以确保与当前订阅协议兼容。</p></div><div class=\"step\"><h3>第三步：导入订阅链接</h3><p>复制用户中心的订阅 URL，在客户端中选择从 URL 更新或添加订阅。首次导入会拉取节点与分流规则。建议开启自动更新，以便线路变更时同步。</p></div><div class=\"step\"><h3>第四步：按场景选择节点</h3><p>日常浏览可选邻近地区普通节点；观看流媒体时选择标注原生解锁的入口；游戏请优先 IPLC 或低延迟专线。团队版可在客户端启用定制路由策略。</p></div><div class=\"step\"><h3>第五步：连接测试与日常维护</h3><p>连接后访问目标网站确认延迟与解锁状态。若遇单节点波动，切换同区域备用线路即可。流量可在用户中心查看，接近额度时升级套餐或等待次月重置。</p></div></section><section id=\"download\"><h2>GCP 客户端官方下载</h2><p>以下为各平台常用客户端入口。导入 GCP 机场订阅后即可使用节点进行网络加速。请以本站说明与用户中心教程为准。</p><div class=\"dl\"><a href=\"#guide\">Windows 客户端</a><a href=\"#guide\">macOS 客户端</a><a href=\"#guide\">Android 客户端</a><a href=\"#guide\">iOS 客户端</a><a href=\"#guide\">Clash 导入说明</a><a href=\"#guide\">订阅更新教程</a></div><p>Windows 可使用 Clash Verge 或 v2rayN；macOS 可使用 Clash Meta 或 Surge；Android 推荐 Clash Meta；iOS 可使用 Shadowrocket 或 Stash。导入后请保持加密与端口由订阅自动下发，以免无法连接。</p></section><section id=\"faq\"><h2>常见问题 FAQ</h2><details><summary>GCP 机场是什么？和普通 VPN 有何不同？</summary><p>GCP 以机场订阅模式提供节点池，用户一次导入即可在多个客户端间切换线路。相比单一出口的传统 VPN，机场更便于按地区、流媒体或游戏场景选择节点，并支持多设备共享同一订阅。</p></details><details><summary>如何完成客户端下载与首次配置？</summary><p>先在本页下载对应系统客户端，再登录 GCP 用户中心复制订阅链接，在客户端内粘贴导入。完整步骤见上方配置流程，一般无需手动填写服务器地址。</p></details><details><summary>基础版、旗舰版和团队版该如何选择？</summary><p>轻度浏览与偶尔看视频选基础版（100GB / 3 设备）。需要原生流媒体、游戏 IPLC 和 5 台设备选旗舰版。家庭或小团队、需要 1000GB 与定制路由选团队版。</p></details><details><summary>流量用尽或节点变慢怎么办？</summary><p>流量按月重置，用尽后可升级套餐或等待下一计费周期。单节点变慢时切换同区域其他线路；持续异常可通过旗舰版与团队版工单通道反馈。</p></details><details><summary>是否支持退款以及如何联系官方？</summary><p>未产生大量消耗的新订阅可在约定时限内申请退款，具体以用户中心说明为准。旗舰版提供 7x24 优先工单，团队版配备专属客户经理。请通过官网工单联系，避免非官方渠道。</p></details><details><summary>GCP 支持哪些流媒体和游戏加速？</summary><p>旗舰版强调全节点原生流媒体解锁，覆盖常见影视平台。游戏方面通过 IPLC 专线优化热门区服延迟。基础版提供基础解锁，团队版另有 VIP 高带宽节点，适合多开与较高带宽需求。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><div class=\"footer-grid\"><div><h3>网站地图</h3><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#plans\">套餐方案</a></li><li><a href=\"#guide\">配置流程</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li></ul></div><div><h3>广告合作</h3><div class=\"adbox\">欢迎工具类与内容站点洽谈文字合作位，请通过官方工单提交意向。本区域仅为说明，不含第三方脚本或追踪代码。</div></div><div><h3>友情链接</h3><ul><li><a href=\"#download\">网络加速客户端导航</a></li><li><a href=\"#guide\">Clash 订阅导入指南</a></li><li><a href=\"#scenes\">流媒体解锁场景说明</a></li><li><a href=\"#faq\">机场使用手册</a></li></ul></div></div><p>© GCP 官方网站 · 机场订阅与 VPN 梯子服务 · 请仅将加速器用于合法合规的网络访问</p></div></footer>",
+          "hash": "1bd0307406423bc7dda6ac40a660ab378867e854bd68ff4b0edaae5d7cfa05bb",
+          "seo": {
+            "title": "GCP官网 - VPN梯子网络加速器与机场订阅客户端下载",
+            "keywords": "GCP,GCP机场,GCP VPN,GCP官网,梯子,网络加速,加速器,客户端下载,官网下载,机场订阅",
+            "description": "GCP提供机场订阅与VPN梯子网络加速服务，覆盖客户端官方下载、配置流程与多档套餐，助力流媒体解锁、游戏加速和多设备稳定连接。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nqabuhv.cn",
+    "host": "p-ca26de7d8f.nqabuhv.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "nqabuhv.cn",
+      "url": "https://nqabuhv.cn/",
+      "label": "苦瓜云",
+      "apex": "nqabuhv.cn",
+      "kind": null,
+      "identity": "sscvay/page-e761ae773d44b0f69ca07f0b"
+    },
+    {
+      "host": "eoowrfm.cn",
+      "url": "https://eoowrfm.cn/",
+      "label": "GCP",
+      "apex": "eoowrfm.cn",
+      "kind": null,
+      "identity": "nvqwmqs/page-5bf85907bdaa286f64968847"
+    },
+    {
+      "host": "eprlzms.cn",
+      "url": "https://eprlzms.cn/",
+      "label": "GCP",
+      "apex": "eprlzms.cn",
+      "kind": null,
+      "identity": "kqqdgcnucp/page-13089515912f6d2ae6e556a6"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "cad56a337573caeeafde6d7b67cc072a7f4ed805ca001a18da8e354e43295284",
+    "sitemap.xml": "e51eddecf0c7a27e903bff64a4e8e164cede1a9d696bf4ca858fc09d2a8532df",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c4e65b98ec11369f0fdd61eef6a7e015d4fee1c8ff186cee84dbe09f6657fe74",
+    "robots.txt": "6fac07303f9e47dadbb5dbd6d525ec1c4148609e2d6da8ccf105aea0c2d1c5db",
+    "1943b47a5d075c34952f39a483195425.txt": "629856f10be299b80b6471b3ae4ed85672205553711e91087fc6a85d63210259"
+  },
+  "revision": "7b987173aab12b8396ad3b3213965c3a5c6b0dd59de4dbd7896d8731506a9d8d"
+}
